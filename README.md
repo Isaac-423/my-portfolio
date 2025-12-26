@@ -26,7 +26,8 @@ Modern, responsive, and SEO-friendly personal portfolio website focused on DevOp
 3. **Run Development Server**:
    ```bash
    npm run dev
-   ```
+   ``` 
+
 4. **Build for Production**:
    ```bash
    npm run build
@@ -42,3 +43,4 @@ Modern, responsive, and SEO-friendly personal portfolio website focused on DevOp
 **Isuru Udana Pinthu**
 - GitHub: [@isurudanapinthu](https://github.com/isurudanapinthu)
 - LinkedIn: [Isuru Udana Pinthu](https://linkedin.com/in/isurudanapinthu)
+i
